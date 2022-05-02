@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![main page](https://user-images.githubusercontent.com/43307207/166301906-93e6cb65-ea28-47cb-9bff-310892b6e091.jpg)
+[Photo Shoot Booking App](https://github.com/hanselkang/photo_shoot_booking_project)
+* Python
+* Flask
+* PostgreSQL
+* Psycopg
+* HTML
+* CSS
+
+
 <p align = "center"> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/></a> 
 
 
