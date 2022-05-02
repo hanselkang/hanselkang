@@ -18,7 +18,7 @@
 
 ![github](https://user-images.githubusercontent.com/43307207/166307924-ea651355-1824-48ca-a3ab-9695f971449f.jpg)
 ## Photo Shoot Booking App
-[Go to Repository](https://github.com/hanselkang/photo_shoot_booking_project)
+### [Go to Repository](https://github.com/hanselkang/photo_shoot_booking_project)
 * Python
 * Flask
 * PostgreSQL
@@ -31,7 +31,7 @@
 
 ![githubmain2](https://user-images.githubusercontent.com/43307207/166304009-48fd1b21-bf44-466a-8897-981ff3fdb0e2.jpg)
 ## Meow Rock Meow Paper Meow Scissors
-[Go to Repository](https://github.com/hanselkang/rock_paper_scissors)
+### [Go to Repository](https://github.com/hanselkang/rock_paper_scissors)
 * Python
 * Flask
 * HTML
