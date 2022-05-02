@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![main page](https://user-images.githubusercontent.com/43307207/166301906-93e6cb65-ea28-47cb-9bff-310892b6e091.jpg)
+![githubmain](https://user-images.githubusercontent.com/43307207/166302621-fe7e2890-a724-4b42-9e9a-d602d85cb4a7.jpg)
 [Photo Shoot Booking App](https://github.com/hanselkang/photo_shoot_booking_project)
 * Python
 * Flask
