@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 * HTML
 * CSS
 
-
+------------
+------------
 
 ![githubmain2](https://user-images.githubusercontent.com/43307207/166304009-48fd1b21-bf44-466a-8897-981ff3fdb0e2.jpg)
 ## Meow Rock Meow Paper Meow Scissors
