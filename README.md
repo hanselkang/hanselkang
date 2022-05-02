@@ -15,11 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![githubmain](https://user-images.githubusercontent.com/43307207/166302621-fe7e2890-a724-4b42-9e9a-d602d85cb4a7.jpg)
-[Photo Shoot Booking App](https://github.com/hanselkang/photo_shoot_booking_project)
+## Photo Shoot Booking App
+[Go to Repository](https://github.com/hanselkang/photo_shoot_booking_project)
 * Python
 * Flask
 * PostgreSQL
 * Psycopg
+* HTML
+* CSS
+
+
+
+![githubmain2](https://user-images.githubusercontent.com/43307207/166304009-48fd1b21-bf44-466a-8897-981ff3fdb0e2.jpg)
+## Meow Rock Meow Paper Meow Scissors
+[Go to Repository](https://github.com/hanselkang/rock_paper_scissors)
+* Python
+* Flask
 * HTML
 * CSS
 
