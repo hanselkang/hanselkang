@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 * CSS
 
 
-<p align = "center"> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/> <https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey/><img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/></a> 
+<p align = "center"> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/> <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/><img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/></a> 
 
 
 <p align = "center">        
