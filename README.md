@@ -13,8 +13,8 @@
 
     
 ## Project list
-    * Photo Shoot Booking App
-    * Meow Rock Meow Paper Meow Scissors
+    // Photo Shoot Booking App
+    // Meow Rock Meow Paper Meow Scissors
 ----------------
 ----------------
 
