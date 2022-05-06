@@ -25,6 +25,7 @@
 ### [Go to Repository](https://github.com/hanselkang/photo_shoot_booking_project)
 * Python
 * Flask
+* Jinja 
 * PostgreSQL
 * Psycopg
 * HTML
