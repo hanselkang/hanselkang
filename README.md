@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p align = "center"> 
+    
     |     Python     |    Javascript      |
     |     :---:      |    :---:      |
 | <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/> | <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> |
