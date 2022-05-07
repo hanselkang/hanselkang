@@ -1,7 +1,7 @@
 ### Hi there 👋
 
     
-<p align = "center"> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/>  <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/> <img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/> <img src="https://img.shields.io/badge/PostgresSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/> <img src="https://img.shields.io/badge/PostgresSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/> <img src="https://img.shields.io/badge/Psycopg-lightgrey?style=flat&logo=psycopg&logoColor=grey"/> <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> </p> 
+<p align = "center"> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=python&logoColor=grey"/>  <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/> <img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/> <img src="https://img.shields.io/badge/PostgresSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/> <img src="https://img.shields.io/badge/Psycopg-lightgrey?style=flat&logo=psycopg&logoColor=grey"/> <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> </p> 
 
 
 <p align = "center">        
