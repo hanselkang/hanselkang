@@ -22,7 +22,7 @@
 
 ## Photo Shoot Booking App
 
-![166307924-ea651355-1824-48ca-a3ab-9695f971449f](https://user-images.githubusercontent.com/43307207/168769879-7d5b63a4-620c-4f1a-badb-c012c79601c4.jpg)
+![166307924-ea651355-1824-48ca-a3ab-9695f971449f](https://user-images.githubusercontent.com/43307207/168770093-1e82c6f6-3026-44a8-a6f6-5b9291716065.jpg)
 
 
 ### [Go to Repository](https://github.com/hanselkang/photo_shoot_booking_project)
