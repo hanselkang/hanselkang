@@ -35,7 +35,8 @@
 
 ## Insect Finder
 
-![bugs](https://user-images.githubusercontent.com/43307207/170143222-ab8d7efc-6ce5-448d-8962-f82e8fe2654b.png)
+![bugs](https://user-images.githubusercontent.com/43307207/170223129-dd5c0ca7-517e-4075-b85c-67ab772eb953.png)
+
 
 ### [Go to Repository](https://github.com/hanselkang/find_insect)
 * Node.js
