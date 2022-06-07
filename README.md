@@ -26,7 +26,7 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 
 <br>
 
-**Connect with me:**
+**Connect with me**
 <p align = "left">     
 <a href="http://www.linkedin.com/in/hanselkang0121">
     <img 
