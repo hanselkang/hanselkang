@@ -66,6 +66,8 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 <a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort=">
 <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> </a>
     
+    
+    // Fantastic Birds Education App
     // Insect Finder
     
 <a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=python&sort=">
@@ -73,9 +75,27 @@ I'm a Software Developer with a background in Architecture Design and Photograph
     
     // Photo Shoot Booking App
     // Meow Rock Meow Paper Meow Scissors
+    
 ----------------
 
-## Insect Finder
+## Fantastic Birds Education App (group)
+
+
+<p align = "center">    
+<img width="600px" alt="fantastic_birds" src="https://user-images.githubusercontent.com/43307207/172611879-860c3765-4ef3-417e-85b8-9adbdeb13e32.png">
+</p>
+
+### [Go to Repository](https://github.com/hanselkang/fantastic_birds)
+* JavaScript
+* Node.js
+* React.js
+* CSS
+* HTML
+* SVG data
+ 
+----------------
+
+## Insect Finder (solo)
 
 ![bugs](https://user-images.githubusercontent.com/43307207/170223129-dd5c0ca7-517e-4075-b85c-67ab772eb953.png)
 
@@ -84,11 +104,12 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 * Node.js
 * React.js
 * CSS
+* HTML
 * OpenAPI https://insectvectors.science/api/vectors
 
 ----------------
 
-## Photo Shoot Booking App
+## Photo Shoot Booking App (solo)
 
 ![166307924-ea651355-1824-48ca-a3ab-9695f971449f](https://user-images.githubusercontent.com/43307207/168770093-1e82c6f6-3026-44a8-a6f6-5b9291716065.jpg)
 
@@ -104,7 +125,7 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 
 ------------
 
-## Meow Rock Meow Paper Meow Scissors
+## Meow Rock Meow Paper Meow Scissors (solo)
 
 ![githubmain2](https://user-images.githubusercontent.com/43307207/166304009-48fd1b21-bf44-466a-8897-981ff3fdb0e2.jpg)
 
