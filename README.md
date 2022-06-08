@@ -1,3 +1,6 @@
+![readme2](https://user-images.githubusercontent.com/43307207/172579168-488a9d0f-11dc-4803-9bbb-53c0c6f5d7b0.png)
+
+
 ## Hi there, I'm Hansel
 
 I'm a Software Developer with a background in Architecture Design and Photograph
