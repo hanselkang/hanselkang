@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Hansel
 
-I'm a Software Developer with a background in Architecture Design and Photograph
+I'm a Software Developer with a background in Architecture Design and Photography
 
 <br>
 
