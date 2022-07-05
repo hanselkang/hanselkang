@@ -63,8 +63,9 @@ I'm a Software Developer with a background in Architecture Design and Photograph
     
 ## Pinned Project list
     
-    
-![colouringbook2](https://user-images.githubusercontent.com/43307207/172644584-0a117acd-a034-493f-a2ca-4a57be5b4210.gif)
+
+<a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort=">
+<img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> </a>
     
     
     // Fantastic Birds Education App
@@ -82,7 +83,9 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 
 
 <p align = "center">    
-<img width="600px" alt="fantastic_birds" src="https://user-images.githubusercontent.com/43307207/172611879-860c3765-4ef3-417e-85b8-9adbdeb13e32.png">
+
+![colouringbook2](https://user-images.githubusercontent.com/43307207/172644584-0a117acd-a034-493f-a2ca-4a57be5b4210.gif)
+
 </p>
 
 ### [Go to Repository](https://github.com/hanselkang/fantastic_birds)
