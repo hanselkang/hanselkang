@@ -63,8 +63,8 @@ I'm a Software Developer with a background in Architecture Design and Photograph
     
 ## Pinned Project list
     
-<a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort=">
-<img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> </a>
+    
+![colouringbook2](https://user-images.githubusercontent.com/43307207/172644584-0a117acd-a034-493f-a2ca-4a57be5b4210.gif)
     
     
     // Fantastic Birds Education App
@@ -97,8 +97,11 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 
 ## Insect Finder (solo)
 
+<p align = "center">    
+
 ![bugs](https://user-images.githubusercontent.com/43307207/170223129-dd5c0ca7-517e-4075-b85c-67ab772eb953.png)
 
+</p>
 
 ### [Go to Repository](https://github.com/hanselkang/find_insect)
 * Node.js
