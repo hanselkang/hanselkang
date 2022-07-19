@@ -62,9 +62,14 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 <br>
     
 ## Pinned Project list
+
+<img src="https://img.shields.io/badge/Java-lightgrey?style=flat&logo=java&logoColor=grey"/> <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/>
+
+
+    // MINTid Expense Tracker
     
 
-<a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort=">
+<a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort="> 
 <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=grey"/> </a>
     
     
@@ -79,18 +84,38 @@ I'm a Software Developer with a background in Architecture Design and Photograph
     
 ----------------
 
+## MINTid Expense Tracker (group)
+
+
+<div align = "center">    
+
+![mintid](https://user-images.githubusercontent.com/43307207/179786734-f0c61024-0ef7-487d-b9e4-63f1d28ed3de.jpg)
+
+</div>
+
+### [Go to Repository](https://github.com/hanselkang/MINTid)
+
+* Java
+* Spring
+* JavaScript
+* React
+* Recharts
+* PostgreSQL
+
+    
+----------------
+
 ## Fantastic Birds Education App (group)
 
 
-<p align = "center">    
+<div align = "center">    
 
 ![colouringbook2](https://user-images.githubusercontent.com/43307207/172644584-0a117acd-a034-493f-a2ca-4a57be5b4210.gif)
 
-</p>
+</div>
 
 ### [Go to Repository](https://github.com/hanselkang/fantastic_birds)
 * JavaScript
-* Node.js
 * React.js
 * CSS
 * HTML
