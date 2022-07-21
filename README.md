@@ -1,14 +1,20 @@
 ![readme2](https://user-images.githubusercontent.com/43307207/172579168-488a9d0f-11dc-4803-9bbb-53c0c6f5d7b0.png)
 
 
-## Hi there, I'm Hansel
-### [Go to My Webpage](https://hanseul.com)
+## Hi there, I'm Hansel from South Korea
 
 I'm a Software Developer with a background in Architecture Design and Photography
 
-
-
 <br>
+
+<img width="1091" alt="wayofthinking" src="https://user-images.githubusercontent.com/43307207/180253547-b986d2ed-5346-4a47-a4f6-be0e811af1fd.png">
+
+And I love to think outside the box!!! 
+
+
+### [Go to hanseul.com](https://hanseul.com)
+
+
 
 <br>
 
@@ -123,23 +129,7 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 * CSS
 * HTML
 * SVG data
- 
-----------------
 
-## Insect Finder (solo)
-
-<p align = "center">    
-
-![bugs](https://user-images.githubusercontent.com/43307207/170223129-dd5c0ca7-517e-4075-b85c-67ab772eb953.png)
-
-</p>
-
-### [Go to Repository](https://github.com/hanselkang/find_insect)
-* Node.js
-* React.js
-* CSS
-* HTML
-* OpenAPI https://insectvectors.science/api/vectors
 
 ----------------
 
@@ -169,5 +159,20 @@ I'm a Software Developer with a background in Architecture Design and Photograph
 * HTML
 * CSS
 
+----------------
+
+## Insect Finder (solo)
+
+<p align = "center">    
+
+![bugs](https://user-images.githubusercontent.com/43307207/170223129-dd5c0ca7-517e-4075-b85c-67ab772eb953.png)
+
+</p>
+
+### [Go to Repository](https://github.com/hanselkang/find_insect)
+* React.js
+* CSS
+* HTML
+* OpenAPI https://insectvectors.science/api/vectors
 
 
