@@ -1,6 +1,5 @@
 ![readme2](https://user-images.githubusercontent.com/43307207/172579168-488a9d0f-11dc-4803-9bbb-53c0c6f5d7b0.png)
 
-
 ## Hi there, I'm Hansel from South Korea
 
 I'm a Software Developer with a background in Architecture Design and Photography
@@ -14,19 +13,30 @@ And I love to think outside the box!!!
 
 ### [Go to hanseul.com](https://hanseul.com)
 
-
-
 <br>
 
 **Languages and Tools**
 
-<p align = "left"><a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> <img src="https://img.shields.io/badge/Cypress-lightgrey?style=flat&logo=cypress&logoColor=grey"/> <img src="https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=mongodb&logoColor=grey"/> <img src="https://img.shields.io/badge/Express.js-lightgrey?style=flat&logo=express&logoColor=grey"/> <img src="https://img.shields.io/badge/Insomnia-lightgrey?style=flat&logo=insomnia&logoColor=grey"/> <img src="https://img.shields.io/badge/Compass-lightgrey?style=flat&logo=compass&logoColor=grey"/></a> </p>  
+<p align = "left"> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black"/>  
+<img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/Spring-lightgrey?style=flat&logo=spring&logoColor=grey"/>
+<img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/>
+<img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/>
+<img src="https://img.shields.io/badge/Cypress-lightgrey?style=flat&logo=cypress&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=mongodb&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/Express.js-lightgrey?style=flat&logo=express&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/Insomnia-lightgrey?style=flat&logo=insomnia&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/>
+<img src="https://img.shields.io/badge/FastAPI-lightgrey?style=flat&logo=fastapi&logoColor=grey"/>
+</p>  
 
-<p align = "left"> <a href="https://github.com/hanselkang?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/> <img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/> <img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/> <img src="https://img.shields.io/badge/Jupyter-lightgrey?style=flat&logo=jupyter&logoColor=grey"/></a></p> 
+
     
 <p align = "left"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black"/>  <img src="https://img.shields.io/badge/Spring-lightgrey?style=flat&logo=spring&logoColor=grey"/> </p> 
+       </p> 
 
 <p align = "left"> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=grey"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=grey"/>  <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=grey"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=grey"/></p> 
