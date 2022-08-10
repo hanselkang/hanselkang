@@ -18,19 +18,19 @@ And I love to think outside the box!!!
 **Languages and Tools**
 
 <p align = "left"> 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black"/>  
-<img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> 
-<img src="https://img.shields.io/badge/Spring-lightgrey?style=flat&logo=spring&logoColor=grey"/>
-<img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/>
-<img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/>
-<img src="https://img.shields.io/badge/Cypress-lightgrey?style=flat&logo=cypress&logoColor=grey"/> 
-<img src="https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=mongodb&logoColor=grey"/> 
-<img src="https://img.shields.io/badge/Express.js-lightgrey?style=flat&logo=express&logoColor=grey"/> 
-<img src="https://img.shields.io/badge/Insomnia-lightgrey?style=flat&logo=insomnia&logoColor=grey"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/>
-<img src="https://img.shields.io/badge/FastAPI-lightgrey?style=flat&logo=fastapi&logoColor=grey"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python"/> 
+<img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java"/>  
+<img src="https://img.shields.io/badge/React-white?style=flat&logo=react"/> 
+<img src="https://img.shields.io/badge/Spring-white?style=flat&logo=spring"/>
+<img src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=grey"/>
+<img src="https://img.shields.io/badge/Jinja-white?style=flat&logo=jinja&logoColor=grey"/>
+<img src="https://img.shields.io/badge/Cypress-white?style=flat&logo=cypress&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb"/> 
+<img src="https://img.shields.io/badge/Express.js-white?style=flat&logo=express&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/Insomnia-white?style=flat&logo=insomnia&logoColor=grey"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/FastAPI-white?style=flat&logo=fastapi"/>
 </p>  
 
 
@@ -39,7 +39,7 @@ And I love to think outside the box!!!
        </p> 
 
 <p align = "left"> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=grey"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=grey"/>  <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=grey"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=grey"/></p> 
+   <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=html5"/>  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=grey"/>  <img src="https://img.shields.io/badge/Git-white?style=flat&logo=git"/> <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=grey"/></p> 
 
 <p align = "left"> 
    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Lightroom-FF9A00?style=flat&logo=adobe%20lightroom&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-FF9A00?style=flat&logo=adobe%20photoshop&logoColor=white"/></p> 
